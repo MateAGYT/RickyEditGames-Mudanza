@@ -7,7 +7,7 @@ Cabe recalcar que este código es **antigüo** y muy posiblemente desactualizado
 ### Otros repositorios relacionados con la web:
 
 > 1. Código de la web: [Haz click aquí](https://github.com/MateAGYT/RickyEditGames-Web).
-> 2. Código del bot de notificaciones: [Haz click aquí](https://github.com/MateAGYT/RickyEditGames-BotNotificaciones)
-> 3. Código del bot general: [Haz click aquí](https://github.com/MateAGYT/RickyEditGames-BotGeneral)
+> 2. Código del bot de notificaciones: [Haz click aquí](https://github.com/MateAGYT/RickyEditGames-BotNotificaciones).
+> 3. Código del bot general: [Haz click aquí](https://github.com/MateAGYT/RickyEditGames-BotGeneral).
 
 © Este código no ha sido protegido mediante el certificado de copyright de MateAG, es **totalmente libre de usar, modificar y distribuir**. ¡Disfrútalo!
